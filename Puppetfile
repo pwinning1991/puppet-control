@@ -22,13 +22,13 @@ mod 'ssh',
   :ref => 'master'
 
 mod 'ntp',
-  :git => 'https://github.com/pwinning1991/puppet-ntp.git'
-  :ref => 'master'
+  :git => 'https://github.com/pwinning1991/puppet-ntp.git',
+  :branch  => 'master'
 
 mod 'role',
-  :git => 'https://github.com/pwinning1991/puppet-role.git'
+  :git => 'https://github.com/pwinning1991/puppet-role.git',
   :ref => 'master'
 
 mod 'profile',
-  :git => 'https://github.com/pwinning1991/puppet-profile.git'
+  :git => 'https://github.com/pwinning1991/puppet-profile.git',
   :ref => 'master'
