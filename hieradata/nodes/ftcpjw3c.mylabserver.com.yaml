@@ -1,0 +1,6 @@
+---
+profile::nginx::vhosts:
+  - 'fqdn': 'ftcpjw3.mylabserver.com'
+    'port' : 80
+    'server_aliases': ''
+
